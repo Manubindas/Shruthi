@@ -1,0 +1,54 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Marck Script', cursive;
+}
+.top-container{
+  font-family: 'Marck Script', cursive;
+  height: 2160px;
+  background-color: #eec4c4;
+}
+span{
+  font-size: 30px
+}
+h1{
+  padding-top: 100px
+}
+.bangari{
+  font-family: 'Fugaz One', cursive;
+}
+.gobi{
+  font-family: 'Niconne', cursive;
+}
+.heart{
+margin-right: 110px;
+}
+.nature{
+  width: 100%;
+}
+.lovem{
+  position: absolute;
+  top: 200px;
+  right: 490px;
+}
+.loves{
+  height: 300px;
+  position: relative;
+  bottom: 630px;
+  right: 500px;
+}
+.propose{
+  width: 100%;
+}
+.love{
+  position: relative;
+  bottom: 600px;
+  right: 300px;
+}
+.middle-container{
+  background-color: #a9f1df;
+}
+.bottom-container{
+  background-color: #1eae98;
+  padding-bottom: .1%;
+}
